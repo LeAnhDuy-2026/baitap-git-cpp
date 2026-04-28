@@ -9,7 +9,7 @@ int main() {
     cin >> banKinh;
 
     dienTich = M_PI * pow(banKinh, 2);
-
+    cout << "Ban kinh "<<bankinh<<endl;
     cout << "Dien tich hinh tron la: " << dienTich << endl;
 
     return 0;
